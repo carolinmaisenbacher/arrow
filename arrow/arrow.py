@@ -1063,3 +1063,7 @@ class Arrow(object):
 
 Arrow.min = Arrow.fromdatetime(datetime.min)
 Arrow.max = Arrow.fromdatetime(datetime.max)
+
+
+def randomTime():
+    return "here comes a random time"
