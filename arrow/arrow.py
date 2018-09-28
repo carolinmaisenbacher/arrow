@@ -1066,4 +1066,5 @@ Arrow.max = Arrow.fromdatetime(datetime.max)
 
 
 def randomTime():
-    return "here comes a random time"
+
+    return "here comes a random time + Luftballons"
